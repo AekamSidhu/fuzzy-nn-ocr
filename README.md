@@ -6,7 +6,7 @@ The project takes noisy or faded images of the 36 characters A–Z and 0–9 and
 
 **Full report:** [report/Fuzzy-Neural-Character-Recognition-Report.pdf](report/Fuzzy-Neural-Character-Recognition-Report.pdf). It covers the theory, design, results and discussion, in 19 pages.
 
-**Study guide:** [GUIDE.md](GUIDE.md). It explains every syllabus topic and how the project uses it, with worked examples, a file-by-file code tour, design decisions and viva questions with answers.
+**Study guide:** [GUIDE.md](GUIDE.md), also as a [printable PDF](report/Fuzzy-Neural-Character-Recognition-Guide.pdf). It explains every syllabus topic and how the project uses it, with worked examples, a file-by-file code tour, design decisions and viva questions with answers.
 
 | Syllabus unit | Where it appears |
 |---|---|

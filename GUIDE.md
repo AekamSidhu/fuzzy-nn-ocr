@@ -2,7 +2,7 @@
 
 This guide explains the whole project: what it does, every syllabus topic it uses (and the ones it does not), how each piece of code works, how the experiments were run, what the results mean, and the questions you are likely to be asked in a viva.
 
-The short [README](README.md) covers running the code. The [project report](report/Fuzzy-Neural-Character-Recognition-Report.pdf) is the formal write-up. This guide is the study companion that connects the two.
+The short [README](README.md) covers running the code. The [project report](report/Fuzzy-Neural-Character-Recognition-Report.pdf) is the formal write-up. This guide is the study companion that connects the two. A printable copy is in [report/Fuzzy-Neural-Character-Recognition-Guide.pdf](report/Fuzzy-Neural-Character-Recognition-Guide.pdf).
 
 ## Contents
 
