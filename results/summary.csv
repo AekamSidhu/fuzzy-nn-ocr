@@ -1,0 +1,241 @@
+scenario,level,network,pipeline,chars,accuracy,n
+gaussian,0.0,Perceptron,threshold,36,1.0,720
+gaussian,0.0,Hamming+Maxnet,threshold,36,1.0,720
+gaussian,0.0,Hopfield (projection),threshold,36,1.0,720
+gaussian,0.0,Hopfield (Hebbian),threshold,3,1.0,300
+gaussian,0.0,BAM,threshold,3,1.0,300
+gaussian,0.0,Perceptron,fuzzy,36,1.0,720
+gaussian,0.0,Hamming+Maxnet,fuzzy,36,1.0,720
+gaussian,0.0,Hopfield (projection),fuzzy,36,1.0,720
+gaussian,0.0,Hopfield (Hebbian),fuzzy,3,1.0,300
+gaussian,0.0,BAM,fuzzy,3,1.0,300
+gaussian,0.1,Perceptron,threshold,36,1.0,720
+gaussian,0.1,Hamming+Maxnet,threshold,36,1.0,720
+gaussian,0.1,Hopfield (projection),threshold,36,1.0,720
+gaussian,0.1,Hopfield (Hebbian),threshold,3,1.0,300
+gaussian,0.1,BAM,threshold,3,1.0,300
+gaussian,0.1,Perceptron,fuzzy,36,1.0,720
+gaussian,0.1,Hamming+Maxnet,fuzzy,36,1.0,720
+gaussian,0.1,Hopfield (projection),fuzzy,36,1.0,720
+gaussian,0.1,Hopfield (Hebbian),fuzzy,3,1.0,300
+gaussian,0.1,BAM,fuzzy,3,1.0,300
+gaussian,0.2,Perceptron,threshold,36,1.0,720
+gaussian,0.2,Hamming+Maxnet,threshold,36,1.0,720
+gaussian,0.2,Hopfield (projection),threshold,36,1.0,720
+gaussian,0.2,Hopfield (Hebbian),threshold,3,1.0,300
+gaussian,0.2,BAM,threshold,3,1.0,300
+gaussian,0.2,Perceptron,fuzzy,36,1.0,720
+gaussian,0.2,Hamming+Maxnet,fuzzy,36,1.0,720
+gaussian,0.2,Hopfield (projection),fuzzy,36,1.0,720
+gaussian,0.2,Hopfield (Hebbian),fuzzy,3,1.0,300
+gaussian,0.2,BAM,fuzzy,3,1.0,300
+gaussian,0.3,Perceptron,threshold,36,1.0,720
+gaussian,0.3,Hamming+Maxnet,threshold,36,1.0,720
+gaussian,0.3,Hopfield (projection),threshold,36,1.0,720
+gaussian,0.3,Hopfield (Hebbian),threshold,3,1.0,300
+gaussian,0.3,BAM,threshold,3,1.0,300
+gaussian,0.3,Perceptron,fuzzy,36,1.0,720
+gaussian,0.3,Hamming+Maxnet,fuzzy,36,1.0,720
+gaussian,0.3,Hopfield (projection),fuzzy,36,1.0,720
+gaussian,0.3,Hopfield (Hebbian),fuzzy,3,1.0,300
+gaussian,0.3,BAM,fuzzy,3,1.0,300
+gaussian,0.4,Perceptron,threshold,36,1.0,720
+gaussian,0.4,Hamming+Maxnet,threshold,36,1.0,720
+gaussian,0.4,Hopfield (projection),threshold,36,1.0,720
+gaussian,0.4,Hopfield (Hebbian),threshold,3,1.0,300
+gaussian,0.4,BAM,threshold,3,1.0,300
+gaussian,0.4,Perceptron,fuzzy,36,1.0,720
+gaussian,0.4,Hamming+Maxnet,fuzzy,36,1.0,720
+gaussian,0.4,Hopfield (projection),fuzzy,36,1.0,720
+gaussian,0.4,Hopfield (Hebbian),fuzzy,3,1.0,300
+gaussian,0.4,BAM,fuzzy,3,1.0,300
+gaussian,0.5,Perceptron,threshold,36,0.9944444444444445,720
+gaussian,0.5,Hamming+Maxnet,threshold,36,1.0,720
+gaussian,0.5,Hopfield (projection),threshold,36,1.0,720
+gaussian,0.5,Hopfield (Hebbian),threshold,3,1.0,300
+gaussian,0.5,BAM,threshold,3,1.0,300
+gaussian,0.5,Perceptron,fuzzy,36,0.9958333333333333,720
+gaussian,0.5,Hamming+Maxnet,fuzzy,36,1.0,720
+gaussian,0.5,Hopfield (projection),fuzzy,36,1.0,720
+gaussian,0.5,Hopfield (Hebbian),fuzzy,3,1.0,300
+gaussian,0.5,BAM,fuzzy,3,1.0,300
+gaussian,0.6,Perceptron,threshold,36,0.9847222222222223,720
+gaussian,0.6,Hamming+Maxnet,threshold,36,1.0,720
+gaussian,0.6,Hopfield (projection),threshold,36,0.9972222222222222,720
+gaussian,0.6,Hopfield (Hebbian),threshold,3,1.0,300
+gaussian,0.6,BAM,threshold,3,1.0,300
+gaussian,0.6,Perceptron,fuzzy,36,0.9861111111111112,720
+gaussian,0.6,Hamming+Maxnet,fuzzy,36,1.0,720
+gaussian,0.6,Hopfield (projection),fuzzy,36,0.9972222222222222,720
+gaussian,0.6,Hopfield (Hebbian),fuzzy,3,1.0,300
+gaussian,0.6,BAM,fuzzy,3,1.0,300
+gaussian,0.7,Perceptron,threshold,36,0.9708333333333333,720
+gaussian,0.7,Hamming+Maxnet,threshold,36,1.0,720
+gaussian,0.7,Hopfield (projection),threshold,36,0.9930555555555556,720
+gaussian,0.7,Hopfield (Hebbian),threshold,3,1.0,300
+gaussian,0.7,BAM,threshold,3,1.0,300
+gaussian,0.7,Perceptron,fuzzy,36,0.9638888888888889,720
+gaussian,0.7,Hamming+Maxnet,fuzzy,36,1.0,720
+gaussian,0.7,Hopfield (projection),fuzzy,36,0.9875,720
+gaussian,0.7,Hopfield (Hebbian),fuzzy,3,1.0,300
+gaussian,0.7,BAM,fuzzy,3,1.0,300
+gaussian,0.8,Perceptron,threshold,36,0.9611111111111111,720
+gaussian,0.8,Hamming+Maxnet,threshold,36,1.0,720
+gaussian,0.8,Hopfield (projection),threshold,36,0.9875,720
+gaussian,0.8,Hopfield (Hebbian),threshold,3,1.0,300
+gaussian,0.8,BAM,threshold,3,1.0,300
+gaussian,0.8,Perceptron,fuzzy,36,0.9333333333333333,720
+gaussian,0.8,Hamming+Maxnet,fuzzy,36,0.9986111111111111,720
+gaussian,0.8,Hopfield (projection),fuzzy,36,0.9791666666666666,720
+gaussian,0.8,Hopfield (Hebbian),fuzzy,3,0.9966666666666667,300
+gaussian,0.8,BAM,fuzzy,3,0.9966666666666667,300
+saltpepper,0.0,Perceptron,threshold,36,1.0,720
+saltpepper,0.0,Hamming+Maxnet,threshold,36,1.0,720
+saltpepper,0.0,Hopfield (projection),threshold,36,1.0,720
+saltpepper,0.0,Hopfield (Hebbian),threshold,3,1.0,300
+saltpepper,0.0,BAM,threshold,3,1.0,300
+saltpepper,0.0,Perceptron,fuzzy,36,1.0,720
+saltpepper,0.0,Hamming+Maxnet,fuzzy,36,1.0,720
+saltpepper,0.0,Hopfield (projection),fuzzy,36,1.0,720
+saltpepper,0.0,Hopfield (Hebbian),fuzzy,3,1.0,300
+saltpepper,0.0,BAM,fuzzy,3,1.0,300
+saltpepper,0.1,Perceptron,threshold,36,1.0,720
+saltpepper,0.1,Hamming+Maxnet,threshold,36,1.0,720
+saltpepper,0.1,Hopfield (projection),threshold,36,1.0,720
+saltpepper,0.1,Hopfield (Hebbian),threshold,3,1.0,300
+saltpepper,0.1,BAM,threshold,3,1.0,300
+saltpepper,0.1,Perceptron,fuzzy,36,1.0,720
+saltpepper,0.1,Hamming+Maxnet,fuzzy,36,1.0,720
+saltpepper,0.1,Hopfield (projection),fuzzy,36,1.0,720
+saltpepper,0.1,Hopfield (Hebbian),fuzzy,3,1.0,300
+saltpepper,0.1,BAM,fuzzy,3,1.0,300
+saltpepper,0.2,Perceptron,threshold,36,1.0,720
+saltpepper,0.2,Hamming+Maxnet,threshold,36,1.0,720
+saltpepper,0.2,Hopfield (projection),threshold,36,1.0,720
+saltpepper,0.2,Hopfield (Hebbian),threshold,3,1.0,300
+saltpepper,0.2,BAM,threshold,3,1.0,300
+saltpepper,0.2,Perceptron,fuzzy,36,0.9986111111111111,720
+saltpepper,0.2,Hamming+Maxnet,fuzzy,36,1.0,720
+saltpepper,0.2,Hopfield (projection),fuzzy,36,1.0,720
+saltpepper,0.2,Hopfield (Hebbian),fuzzy,3,1.0,300
+saltpepper,0.2,BAM,fuzzy,3,1.0,300
+saltpepper,0.3,Perceptron,threshold,36,0.9972222222222222,720
+saltpepper,0.3,Hamming+Maxnet,threshold,36,1.0,720
+saltpepper,0.3,Hopfield (projection),threshold,36,1.0,720
+saltpepper,0.3,Hopfield (Hebbian),threshold,3,1.0,300
+saltpepper,0.3,BAM,threshold,3,1.0,300
+saltpepper,0.3,Perceptron,fuzzy,36,0.9916666666666667,720
+saltpepper,0.3,Hamming+Maxnet,fuzzy,36,1.0,720
+saltpepper,0.3,Hopfield (projection),fuzzy,36,1.0,720
+saltpepper,0.3,Hopfield (Hebbian),fuzzy,3,1.0,300
+saltpepper,0.3,BAM,fuzzy,3,1.0,300
+saltpepper,0.4,Perceptron,threshold,36,0.9916666666666667,720
+saltpepper,0.4,Hamming+Maxnet,threshold,36,1.0,720
+saltpepper,0.4,Hopfield (projection),threshold,36,1.0,720
+saltpepper,0.4,Hopfield (Hebbian),threshold,3,1.0,300
+saltpepper,0.4,BAM,threshold,3,1.0,300
+saltpepper,0.4,Perceptron,fuzzy,36,0.9777777777777777,720
+saltpepper,0.4,Hamming+Maxnet,fuzzy,36,1.0,720
+saltpepper,0.4,Hopfield (projection),fuzzy,36,0.9986111111111111,720
+saltpepper,0.4,Hopfield (Hebbian),fuzzy,3,1.0,300
+saltpepper,0.4,BAM,fuzzy,3,1.0,300
+saltpepper,0.5,Perceptron,threshold,36,0.9597222222222223,720
+saltpepper,0.5,Hamming+Maxnet,threshold,36,0.9986111111111111,720
+saltpepper,0.5,Hopfield (projection),threshold,36,0.9902777777777778,720
+saltpepper,0.5,Hopfield (Hebbian),threshold,3,1.0,300
+saltpepper,0.5,BAM,threshold,3,1.0,300
+saltpepper,0.5,Perceptron,fuzzy,36,0.9361111111111111,720
+saltpepper,0.5,Hamming+Maxnet,fuzzy,36,0.9944444444444445,720
+saltpepper,0.5,Hopfield (projection),fuzzy,36,0.9805555555555555,720
+saltpepper,0.5,Hopfield (Hebbian),fuzzy,3,1.0,300
+saltpepper,0.5,BAM,fuzzy,3,1.0,300
+saltpepper,0.6,Perceptron,threshold,36,0.8986111111111111,720
+saltpepper,0.6,Hamming+Maxnet,threshold,36,0.9986111111111111,720
+saltpepper,0.6,Hopfield (projection),threshold,36,0.9416666666666667,720
+saltpepper,0.6,Hopfield (Hebbian),threshold,3,0.99,300
+saltpepper,0.6,BAM,threshold,3,0.99,300
+saltpepper,0.6,Perceptron,fuzzy,36,0.8541666666666666,720
+saltpepper,0.6,Hamming+Maxnet,fuzzy,36,0.9958333333333333,720
+saltpepper,0.6,Hopfield (projection),fuzzy,36,0.9416666666666667,720
+saltpepper,0.6,Hopfield (Hebbian),fuzzy,3,0.96,300
+saltpepper,0.6,BAM,fuzzy,3,0.9633333333333334,300
+faded,0.0,Perceptron,threshold,36,1.0,720
+faded,0.0,Hamming+Maxnet,threshold,36,1.0,720
+faded,0.0,Hopfield (projection),threshold,36,1.0,720
+faded,0.0,Hopfield (Hebbian),threshold,3,1.0,300
+faded,0.0,BAM,threshold,3,1.0,300
+faded,0.0,Perceptron,fuzzy,36,1.0,720
+faded,0.0,Hamming+Maxnet,fuzzy,36,1.0,720
+faded,0.0,Hopfield (projection),fuzzy,36,1.0,720
+faded,0.0,Hopfield (Hebbian),fuzzy,3,1.0,300
+faded,0.0,BAM,fuzzy,3,1.0,300
+faded,0.05,Perceptron,threshold,36,1.0,720
+faded,0.05,Hamming+Maxnet,threshold,36,1.0,720
+faded,0.05,Hopfield (projection),threshold,36,1.0,720
+faded,0.05,Hopfield (Hebbian),threshold,3,1.0,300
+faded,0.05,BAM,threshold,3,1.0,300
+faded,0.05,Perceptron,fuzzy,36,1.0,720
+faded,0.05,Hamming+Maxnet,fuzzy,36,1.0,720
+faded,0.05,Hopfield (projection),fuzzy,36,1.0,720
+faded,0.05,Hopfield (Hebbian),fuzzy,3,1.0,300
+faded,0.05,BAM,fuzzy,3,1.0,300
+faded,0.1,Perceptron,threshold,36,0.9930555555555556,720
+faded,0.1,Hamming+Maxnet,threshold,36,1.0,720
+faded,0.1,Hopfield (projection),threshold,36,1.0,720
+faded,0.1,Hopfield (Hebbian),threshold,3,1.0,300
+faded,0.1,BAM,threshold,3,1.0,300
+faded,0.1,Perceptron,fuzzy,36,1.0,720
+faded,0.1,Hamming+Maxnet,fuzzy,36,1.0,720
+faded,0.1,Hopfield (projection),fuzzy,36,1.0,720
+faded,0.1,Hopfield (Hebbian),fuzzy,3,1.0,300
+faded,0.1,BAM,fuzzy,3,1.0,300
+faded,0.15,Perceptron,threshold,36,0.9819444444444444,720
+faded,0.15,Hamming+Maxnet,threshold,36,1.0,720
+faded,0.15,Hopfield (projection),threshold,36,0.9986111111111111,720
+faded,0.15,Hopfield (Hebbian),threshold,3,1.0,300
+faded,0.15,BAM,threshold,3,1.0,300
+faded,0.15,Perceptron,fuzzy,36,0.9958333333333333,720
+faded,0.15,Hamming+Maxnet,fuzzy,36,1.0,720
+faded,0.15,Hopfield (projection),fuzzy,36,1.0,720
+faded,0.15,Hopfield (Hebbian),fuzzy,3,1.0,300
+faded,0.15,BAM,fuzzy,3,1.0,300
+faded,0.2,Perceptron,threshold,36,0.9305555555555556,720
+faded,0.2,Hamming+Maxnet,threshold,36,1.0,720
+faded,0.2,Hopfield (projection),threshold,36,0.9805555555555555,720
+faded,0.2,Hopfield (Hebbian),threshold,3,0.9933333333333333,300
+faded,0.2,BAM,threshold,3,0.9933333333333333,300
+faded,0.2,Perceptron,fuzzy,36,0.975,720
+faded,0.2,Hamming+Maxnet,fuzzy,36,1.0,720
+faded,0.2,Hopfield (projection),fuzzy,36,0.9972222222222222,720
+faded,0.2,Hopfield (Hebbian),fuzzy,3,1.0,300
+faded,0.2,BAM,fuzzy,3,1.0,300
+faded,0.25,Perceptron,threshold,36,0.8805555555555555,720
+faded,0.25,Hamming+Maxnet,threshold,36,1.0,720
+faded,0.25,Hopfield (projection),threshold,36,0.9263888888888889,720
+faded,0.25,Hopfield (Hebbian),threshold,3,0.97,300
+faded,0.25,BAM,threshold,3,0.9633333333333334,300
+faded,0.25,Perceptron,fuzzy,36,0.9444444444444444,720
+faded,0.25,Hamming+Maxnet,fuzzy,36,1.0,720
+faded,0.25,Hopfield (projection),fuzzy,36,0.9833333333333333,720
+faded,0.25,Hopfield (Hebbian),fuzzy,3,0.99,300
+faded,0.25,BAM,fuzzy,3,0.9866666666666667,300
+faded,0.3,Perceptron,threshold,36,0.8319444444444445,720
+faded,0.3,Hamming+Maxnet,threshold,36,0.9930555555555556,720
+faded,0.3,Hopfield (projection),threshold,36,0.8402777777777778,720
+faded,0.3,Hopfield (Hebbian),threshold,3,0.9566666666666667,300
+faded,0.3,BAM,threshold,3,0.9633333333333334,300
+faded,0.3,Perceptron,fuzzy,36,0.8583333333333333,720
+faded,0.3,Hamming+Maxnet,fuzzy,36,0.9902777777777778,720
+faded,0.3,Hopfield (projection),fuzzy,36,0.8291666666666667,720
+faded,0.3,Hopfield (Hebbian),fuzzy,3,0.8833333333333333,300
+faded,0.3,BAM,fuzzy,3,0.89,300
+faded,0.35,Perceptron,threshold,36,0.7888888888888889,720
+faded,0.35,Hamming+Maxnet,threshold,36,0.9958333333333333,720
+faded,0.35,Hopfield (projection),threshold,36,0.7041666666666667,720
+faded,0.35,Hopfield (Hebbian),threshold,3,0.9566666666666667,300
+faded,0.35,BAM,threshold,3,0.9466666666666667,300
+faded,0.35,Perceptron,fuzzy,36,0.7625,720
+faded,0.35,Hamming+Maxnet,fuzzy,36,0.9625,720
+faded,0.35,Hopfield (projection),fuzzy,36,0.6125,720
+faded,0.35,Hopfield (Hebbian),fuzzy,3,0.7766666666666666,300
+faded,0.35,BAM,fuzzy,3,0.8266666666666667,300
