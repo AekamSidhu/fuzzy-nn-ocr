@@ -4,6 +4,8 @@ Course project for **EEO1003 Fuzzy Logic and Neural Networks**.
 
 The project takes noisy or faded images of the 36 characters A–Z and 0–9 and cleans them with a fuzzy inference system written from scratch. Four classic neural networks then recognise or recall the character. Every experiment runs each network twice on the same noisy images: once on the plain thresholded image and once on the fuzzy-enhanced image.
 
+**Full report:** [report/Fuzzy-Neural-Character-Recognition-Report.pdf](report/Fuzzy-Neural-Character-Recognition-Report.pdf). It covers the theory, design, results and discussion, in 19 pages.
+
 | Syllabus unit | Where it appears |
 |---|---|
 | 1. ANN models, Hebbian learning, perceptron | `perceptron.py` (perceptron learning rule); Hebbian storage in `hopfield.py`, `bam.py` |
